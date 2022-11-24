@@ -67,7 +67,7 @@ function App() {  // Functional Component
                   onUpdateShelf={updateUserBooks}
                 />
 
-                <Link to='/my-reads-app/search' className='link add'> + </Link>
+                <Link to='/ch' className='link add'> + </Link>
               </main>
             </div>
           }
