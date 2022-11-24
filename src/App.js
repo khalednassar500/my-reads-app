@@ -36,7 +36,7 @@ function App() {  // Functional Component
     <Routes>
         <Route 
           exact
-          path='/'
+          path='/my-reads-app'
           element={
             <div className="App">
               <header className='main-header'>
