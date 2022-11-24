@@ -67,14 +67,14 @@ function App() {  // Functional Component
                   onUpdateShelf={updateUserBooks}
                 />
 
-                <Link to='/search' className='link add'> + </Link>
+                <Link to='/my-reads-app/search' className='link add'> + </Link>
               </main>
             </div>
           }
         />
         
         <Route
-          path='/search'
+          path='/my-reads-app/search'
           element={
             <AddBooks 
               books={userBooks}
