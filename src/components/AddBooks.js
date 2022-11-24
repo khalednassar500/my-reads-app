@@ -67,7 +67,7 @@ const AddBooks = ({books, onUpdateShelf}) => {  // Functional Component
   return (
     <div>
       <div className="search-page-top">
-        <Link to='/' className="link">⬅</Link>
+        <Link to='/my-reads-app' className="link">⬅</Link>
         <input 
           type='search' 
           placeholder="Search . . ." 
