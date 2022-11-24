@@ -74,6 +74,7 @@ function App() {  // Functional Component
         />
         
         <Route
+        exact
           path='/my-reads-app/search'
           element={
             <AddBooks 
