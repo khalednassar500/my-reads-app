@@ -28,4 +28,4 @@ If you would like to contribute to the project, please fork the repository, make
 - **Khaled Nassar** - ( *Business fair* :- [github.com/khalednassar500](https://github.com/khalednassar500/) )
 
 ## Project photos 
-![This is an image](https://khalednassar500.github.io/k-n/images/project3.png)
+![This is an image](/src/images/project3.png)
